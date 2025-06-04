@@ -2,6 +2,9 @@
 
 
 
+<p align="left"></p>
+
+
 <h3 align="left">🖥️Tech Stack</h3>
 
 
@@ -36,15 +39,11 @@
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph.svg">
-</picture>
+
+<p align="left"></p>
 
 
-
-<h3 align="left">✉️Contact Me</h3>
+<h3 align="left">Socials</h3>
 
 
 <div align="left">
@@ -55,3 +54,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+
+<p align="left"></p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miguel-Flandez/Miguel-Flandez/output/pacman-contribution-graph.svg">
+</picture>
